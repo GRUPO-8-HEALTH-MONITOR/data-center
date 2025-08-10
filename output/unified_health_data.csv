@@ -1,0 +1,6 @@
+timestamp,patient_id,sensor_type,value,unit,device_id,processed_at,data_quality
+2025-08-10 18:07:16.523972,PAC001,heart_rate,75.0,bpm,DEV001,2025-08-10 18:07:16.523972,validated
+2025-08-10 18:07:16.523972,PAC002,heart_rate,82.0,bpm,DEV004,2025-08-10 18:07:16.523972,validated
+2025-08-10 18:07:16.523972,PAC001,glucose,95.0,mg/dL,DEV002,2025-08-10 18:07:16.523972,validated
+2025-08-10 18:07:16.523972,PAC001,blood_pressure,120.0,mmHg,DEV003,2025-08-10 18:07:16.523972,validated
+2025-08-10 18:07:16.523972,PAC002,body_temperature,36.5,C,DEV005,2025-08-10 18:07:16.523972,validated
